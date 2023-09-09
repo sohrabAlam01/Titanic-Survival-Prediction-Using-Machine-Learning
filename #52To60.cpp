@@ -17,7 +17,7 @@ class shop{
 			}
 };
 int main(){
-	
+	//MAIN FUNCTION US THERE TO PREDICT
 	int size = 3;
 	shop *ptr = new shop[size];
 	shop *ptrTemp = ptr;
@@ -36,6 +36,6 @@ int main(){
 		ptrTemp->getData();
 		ptrTemp++;
 	}
-	
+	//this is the best thing that ever happened in my life
 	return 0;
 }
